@@ -29,7 +29,7 @@ You can view the live demo of the Cupcake Delights landing page [**click here**]
 
 ## Usage
 To use this landing page template for your cupcake website, follow these steps:
-1. Clone the repository: `git clone https://github.com/TheAdmi/CupCake-responsive-landing-page.git`
+1. Clone the repository: `git clone https://github.com/abdellah-agrm/CupCake-responsive-landing-page.git`
 2. Customize the content to match your brand and offerings.
 3. Test the page to ensure everything displays correctly.
 4. Deploy the page to your web hosting or GitHub Pages.
