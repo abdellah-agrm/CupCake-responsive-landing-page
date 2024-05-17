@@ -10,7 +10,7 @@ Welcome to the Cupcake responsive landing page repository! This is a responsive 
 - [Contributing](#contributing)
 
 ## Demo
-You can view the live demo of the Cupcake Delights landing page [**click here**](http://beastechnologies.me/CupCake-responsive-landing-page).
+You can view the live demo of the Cupcake Delights landing page [**click here**](https://abdellah-agrm.github.io/CupCake-responsive-landing-page/).
 ![preview](repository-cover.png)
 
 ## Features
